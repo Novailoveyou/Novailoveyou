@@ -3,8 +3,11 @@
 [youtube]: https://www.youtube.com/channel/UC2rI3sYpG6dH7acoTiQMXsQ
 
 
-### What's up everybody! How ya doin?
-## I'm [Nova][website] (>‿◠)✌
+### What's up everybody! How ya doin? (>‿◠)✌
+
+<br />
+
+### I'm [Nova][website]
 ### Front-End Web Developer
 <br />
 
