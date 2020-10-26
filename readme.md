@@ -5,8 +5,6 @@
 
 ### What's up everybody! How ya doin? (>‿◠)✌
 
-<br />
-
 ### I'm [Nova][website]
 ### Front-End Web Developer
 <br />
