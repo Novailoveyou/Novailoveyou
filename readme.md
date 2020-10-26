@@ -5,8 +5,7 @@
 
 ### What's up everybody! How ya doin? (>‿◠)✌
 
-### I'm [Nova][website]
-### Front-End Web Developer
+### I'm [Nova][website], front-end web developer
 <br />
 
 - 👨‍💻 I’m currently working full-time for [IPE](https://ipo.msk.ru/) and part-time for my clients
