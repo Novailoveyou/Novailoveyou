@@ -1,6 +1,7 @@
 [portfolioLink]: https://novailoveyou.com/
 [twitter]: https://twitter.com/novailoveyou
 [youtube]: https://www.youtube.com/channel/UC2rI3sYpG6dH7acoTiQMXsQ
+[ipe]: https://ipo.msk.ru
 
 # Hi! I'm Nova
 
@@ -25,7 +26,7 @@ To view my portfolio [click here][portfolioLink]
 - 🎬 Was born in Syzran, Russia in a family of military pilot
 - 🇺🇸 Learned English in my room using internet
 - 🐐 Self-taught developer
-- 👨‍💻 Currently working full-time for [Institute of Professional Education](https://ipo.msk.ru)
+- 👨‍💻 Currently working full-time for [Institute of Professional Education][ipe]
 - 💘 I love software
 
 ## Favorite tools
@@ -42,4 +43,4 @@ To view my portfolio [click here][portfolioLink]
 
 ## Contact
 
-- Email: <novailoveyoux@gmail.com>
+Email: <novailoveyoux@gmail.com>
