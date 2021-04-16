@@ -1,29 +1,45 @@
-[website]: https://novailoveyou.com/
+[portfolioLink]: https://novailoveyou.com/
 [twitter]: https://twitter.com/novailoveyou
 [youtube]: https://www.youtube.com/channel/UC2rI3sYpG6dH7acoTiQMXsQ
 
+# Hi! I'm Nova
 
-### What's up everybody! How ya doin? (>‿◠)✌
+## whoami
 
-### I'm [Nova][website], front-end web developer
-<br />
+```ts
+{
+  name: 'Ilya Orlov',
+  username: 'Novailoveyou',
+  age: 23,
+  career: 'Full stack web dev',
+  city: 'Moscow'
+}
+```
 
-- 👨‍💻 I’m currently working full-time for [IPE](https://ipo.msk.ru/) and part-time for my clients
-- 🧑‍🤝‍🧑 I’m looking to find a community I'd fit in
+## Portfolio
 
+To view my portfolio [click here][portfolioLink]
 
-### Connect with me:
+## About
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+- 🎬 Was born in Syzran, Russia in a family of military pilot
+- 🇺🇸 Learned English in my room using internet
+- 🐐 Self-taught developer
+- 👨‍💻 Currently working full-time for [Institute of Professional Education](https://ipo.msk.ru)
+- 💘 I love software
 
-<br />
+## Favorite tools
 
-### My favorite tools:
+- <img src='https://cdn.worldvectorlogo.com/logos/nodejs.svg' width='98px' height='26px' alt='Node.js' /> Node.js *(JavaScript runtime)*
+- <img src='https://cdn.worldvectorlogo.com/logos/nextjs-3.svg' width='98px' height='26px' alt='Next.js' /> Next.js *(React framework)*
+- <img src='https://cdn.worldvectorlogo.com/logos/express-109.svg' width='98px' height='26px' alt='Express' /> Express *(Node.js framework)*
+- <img src='https://cdn.worldvectorlogo.com/logos/mongodb.svg' width='98px' height='26px' alt='MongoDB' /> MongoDB *(General purpose database)*
 
-- <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML
-- <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS
-- <img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> SASS
+## SM
 
-- <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
+[<img src='https://cdn.worldvectorlogo.com/logos/twitter-4.svg' width='32px' height='28px'/>][twitter]
+[<img src='https://cdn.worldvectorlogo.com/logos/youtube-3.svg' width='32px' height='28px'/>][youtube]
+
+## Contact
+
+- Email: <novailoveyoux@gmail.com>
