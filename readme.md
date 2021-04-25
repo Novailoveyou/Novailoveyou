@@ -3,7 +3,7 @@
 [youtube]: https://www.youtube.com/channel/UC2rI3sYpG6dH7acoTiQMXsQ
 [ipe]: https://ipo.msk.ru
 
-# Hi! I'm Nova
+# 👋 I'm Nova
 
 ## whoami
 
