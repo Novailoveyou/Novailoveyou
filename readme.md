@@ -2,6 +2,7 @@
 [twitter]: https://twitter.com/novailoveyou
 [youtube]: https://www.youtube.com/channel/UC2rI3sYpG6dH7acoTiQMXsQ
 [ipe]: https://ipo.msk.ru
+[brad]: https://github.com/bradtraversy
 
 # 👋 I'm Nova
 
@@ -25,7 +26,7 @@ To view my portfolio [click here][portfolioLink]
 
 - 🎬 Was born in Syzran, Russia in a family of military pilot
 - 🇺🇸 Learned English in my room using internet
-- 🐐 Self-taught developer
+- 🐐 ~~Self-taught developer~~ taught by [Brad Traversy][brad]
 - 👨‍💻 Currently working full-time for [Institute of Professional Education][ipe]
 - 💘 I love software
 
