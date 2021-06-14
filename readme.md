@@ -12,7 +12,7 @@
 {
   name: 'Ilya Orlov',
   username: 'Novailoveyou',
-  age: 23,
+  age: 24,
   career: 'Lead full-stack JS developer',
   city: 'Moscow'
 }
