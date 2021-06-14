@@ -13,7 +13,7 @@
   name: 'Ilya Orlov',
   username: 'Novailoveyou',
   age: 24,
-  career: 'Lead full-stack JS developer',
+  career: 'Lead JavaScript developer',
   city: 'Moscow'
 }
 ```
