@@ -1,7 +1,7 @@
 [portfolioLink]: https://novailoveyou.com
 [twitter]: https://twitter.com/novailoveyou
 [youtube]: https://www.youtube.com/channel/UC2rI3sYpG6dH7acoTiQMXsQ
-[mba]: https://moscow.mba
+[mba]: https://github.com/Novailoveyou/mba
 [brad]: https://github.com/bradtraversy
 
 # 👋 I'm Nova
@@ -26,7 +26,7 @@ To view my portfolio [click here][portfolioLink]
 
 - 🎬 Was born in Syzran, Russia in a family of military pilot
 - 🇺🇸 Learned English in my room using internet
-- 🐐 ~~Self-taught developer~~ taught by [Brad Traversy][brad]
+- 🐐 Self-taught developer, huge props to [Brad Traversy][brad]
 - 👨‍💻 Currently working full-time for [Moscow Business Academy][mba]
 - 💘 I love software
 
