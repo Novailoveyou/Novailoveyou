@@ -9,6 +9,7 @@
 [imo]: https://github.com/npoimo
 [mitu]: https://github.com/anpmitu
 [brad]: https://github.com/bradtraversy
+[telegram]: https://t.me/novailoveyou
 
 # 👋 I'm Ilia
 
@@ -55,3 +56,4 @@ Currently working on the huge update for my porfolio
 ## Contact
 
 Email: <novailoveyoux@gmail.com>
+Telegram: [t.me/novailoveyou][telegram]
