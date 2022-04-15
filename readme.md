@@ -19,7 +19,7 @@
   name: 'Ilia Orlov',
   username: 'Novailoveyou',
   age: 24,
-  career: 'Lead TypeScript developer',
+  position: 'Lead TypeScript developer',
 }
 ```
 
