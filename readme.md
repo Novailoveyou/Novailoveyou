@@ -56,4 +56,5 @@ Currently working on the huge update for my porfolio
 ## Contact
 
 Email: <novailoveyoux@gmail.com>
+
 Telegram: [t.me/novailoveyou][telegram]
