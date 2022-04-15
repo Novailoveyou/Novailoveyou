@@ -23,6 +23,10 @@
 }
 ```
 
+## I stand with Urkaine
+
+🇺🇦
+
 ## Portfolio
 
 <!-- To view my portfolio [click here][portfolioLink] -->
