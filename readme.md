@@ -23,7 +23,7 @@
 }
 ```
 
-## I stand with Urkaine
+## I stand with ukraine
 
 🇺🇦
 
