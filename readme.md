@@ -1,4 +1,4 @@
-[portfolioLink]: https://novailoveyou.com
+[portfoliolink]: https://novailoveyou.com
 [twitter]: https://twitter.com/novailoveyou
 [youtube]: https://www.youtube.com/channel/UC2rI3sYpG6dH7acoTiQMXsQ
 [mba]: https://github.com/anpmitu
@@ -19,7 +19,7 @@
 {
   name: 'Ilia Orlov',
   username: 'Novailoveyou',
-  age: 24,
+  age: 25,
   position: 'Lead TypeScript developer',
 }
 ```
@@ -31,6 +31,7 @@
 ## Portfolio
 
 <!-- To view my portfolio [click here][portfolioLink] -->
+
 Currently working on the huge update for my porfolio
 
 ## About
@@ -38,15 +39,20 @@ Currently working on the huge update for my porfolio
 - 🎬 Was born and raised in a isolated Russian military town
 - 🇺🇸 Learned English in my room using internet and reeducated myself
 - 🐐 Taught myself to program, with the huge help of [Brad Traversy][brad]
-- 👨‍💻 Currently working full-time for multiple institutes ([mba][mba], [mipo][mipo], [mitu][mitu] and others) and looking for a new full-time job
+- 👨‍💻 Currently working full-time for multiple institutes ([mba][mba],
+  [mipo][mipo], [mitu][mitu] and others) and looking for a new full-time job
 - 💘 I love software and programming
 
 ## Favorite tools
 
-- <img src='https://cdn.worldvectorlogo.com/logos/nodejs.svg' width='98px' height='26px' alt='Node.js' /> Node.js *(JavaScript runtime)*
-- <img src='https://cdn.worldvectorlogo.com/logos/nextjs-3.svg' width='98px' height='26px' alt='Next.js' /> Next.js *(React framework)*
-- <img src='https://cdn.worldvectorlogo.com/logos/express-109.svg' width='98px' height='26px' alt='Express' /> Express *(Node.js framework)*
-- <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width='98px' height='26px' alt='MongoDB' /> MongoDB *(General purpose database)*
+- <img src='https://cdn.worldvectorlogo.com/logos/nodejs.svg' width='98px' height='26px' alt='Node.js' />
+  Node.js _(JavaScript runtime)_
+- <img src='https://cdn.worldvectorlogo.com/logos/nextjs-3.svg' width='98px' height='26px' alt='Next.js' />
+  Next.js _(React framework)_
+- <img src='https://cdn.worldvectorlogo.com/logos/express-109.svg' width='98px' height='26px' alt='Express' />
+  Express _(Node.js framework)_
+- <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width='98px' height='26px' alt='MongoDB' />
+  MongoDB _(General purpose database)_
 
 ## SM
 
