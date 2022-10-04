@@ -36,11 +36,12 @@ Currently working on the huge update for my porfolio
 
 ## About
 
-- 🎬 Was born and raised in a isolated Russian military town
-- 🇺🇸 Learned English in my room using internet and reeducated myself
-- 🐐 Taught myself to program, with the huge help of [Brad Traversy][brad]
-- 👨‍💻 Currently working full-time for multiple institutes ([mba][mba],
-  [mipo][mipo], [mitu][mitu] and others) and looking for a new full-time job
+- 🎬 Was born and raised in an isolated Russian military town
+- 🇺🇸 Learned English in my room using the internet, moved out, and re-educated myself
+- 🐐 Taught myself to program using the internet with the huge help of [Brad Traversy][brad]
+- 🎓 For the past two years+ have been working full-time in an online education building web apps ([mba][mba],
+  [mipo][mipo], [mitu][mitu] and others)
+- ⚡ Accelerating the world's transition to sustainable energy I find to be the most important thing right now. I work hard to make myself able to contribute to the mission
 - 💘 I love software and programming
 
 ## Favorite tools
