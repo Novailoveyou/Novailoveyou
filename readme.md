@@ -47,15 +47,15 @@ Currently working on the huge update for my porfolio
 ## Favorite tools
 
 - <img src='https://cdn.worldvectorlogo.com/logos/nodejs.svg' width='98px' height='26px' alt='Node.js' />
-  Node.js *(JavaScript runtime)*
+  Node.js <em>(JavaScript runtime)</em>
 - <img src='https://cdn.worldvectorlogo.com/logos/typescript-2.svg' width='26px' height='26px' alt='TypeScript' />
-  TypeScript *(Strict syntactical superset of <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width='26px' height='26px' alt='JavaScript' /> JavaScript)*
+  TypeScript <em>(Strict syntactical superset of <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width='26px' height='26px' alt='JavaScript' /> JavaScript)</em>
 - <img src='https://cdn.worldvectorlogo.com/logos/nextjs-3.svg' width='98px' height='26px' alt='Next.js' />
-  Next.js *(<img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' width='26px' height='26px' alt='React.js' /> React framework)*
+  Next.js <em>(<img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' width='26px' height='26px' alt='React.js' /> React framework)</em>
 - <img src='https://cdn.worldvectorlogo.com/logos/express-109.svg' width='98px' height='26px' alt='Express' />
-  Express *(Node.js framework)*
+  Express <em>(Node.js framework)</em>
 - <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width='98px' height='26px' alt='MongoDB' />
-  MongoDB *(General purpose database)*
+  MongoDB <em>(General purpose database)</em>
 
 ## SM
 
