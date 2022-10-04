@@ -47,13 +47,13 @@ Currently working on the huge update for my porfolio
 ## Favorite tools
 
 - <img src='https://cdn.worldvectorlogo.com/logos/nodejs.svg' width='98px' height='26px' alt='Node.js' />
-  Node.js _(JavaScript runtime)_
+  Node.js __(JavaScript runtime)__
 - <img src='https://cdn.worldvectorlogo.com/logos/nextjs-3.svg' width='98px' height='26px' alt='Next.js' />
-  Next.js _(React framework)_
+  Next.js __(React framework)__
 - <img src='https://cdn.worldvectorlogo.com/logos/express-109.svg' width='98px' height='26px' alt='Express' />
-  Express _(Node.js framework)_
+  Express __(Node.js framework)__
 - <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width='98px' height='26px' alt='MongoDB' />
-  MongoDB _(General purpose database)_
+  MongoDB __(General purpose database)__
 
 ## SM
 
