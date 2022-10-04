@@ -48,8 +48,10 @@ Currently working on the huge update for my porfolio
 
 - <img src='https://cdn.worldvectorlogo.com/logos/nodejs.svg' width='98px' height='26px' alt='Node.js' />
   Node.js __(JavaScript runtime)__
+- <img src='https://cdn.worldvectorlogo.com/logos/typescript-2.svg' width='26px' height='26px' alt='TypeScript' />
+  TypeScript __(Strict syntactical superset of <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width='26px' height='26px' alt='JavaScript' /> JavaScript)__
 - <img src='https://cdn.worldvectorlogo.com/logos/nextjs-3.svg' width='98px' height='26px' alt='Next.js' />
-  Next.js __(React framework)__
+  Next.js __(<img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' width='26px' height='26px' alt='React.js' /> React framework)__
 - <img src='https://cdn.worldvectorlogo.com/logos/express-109.svg' width='98px' height='26px' alt='Express' />
   Express __(Node.js framework)__
 - <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width='98px' height='26px' alt='MongoDB' />
