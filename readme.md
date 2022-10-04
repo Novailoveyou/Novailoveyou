@@ -47,9 +47,9 @@ Currently working on the huge update for my porfolio
 ## Favorite tools
 
 - <img src='https://cdn.worldvectorlogo.com/logos/nodejs.svg' width='98px' height='26px' alt='Node.js' />
-  Node.js <em>(JavaScript runtime)</em>
+  Node.js <em>(<img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width='26px' height='26px' alt='JavaScript' /> JavaScript runtime)</em>
 - <img src='https://cdn.worldvectorlogo.com/logos/typescript-2.svg' width='26px' height='26px' alt='TypeScript' />
-  TypeScript <em>(Strict syntactical superset of <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width='26px' height='26px' alt='JavaScript' /> JavaScript)</em>
+  TypeScript <em>(Strict syntactical superset of JavaScript)</em>
 - <img src='https://cdn.worldvectorlogo.com/logos/nextjs-3.svg' width='98px' height='26px' alt='Next.js' />
   Next.js <em>(<img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' width='26px' height='26px' alt='React.js' /> React framework)</em>
 - <img src='https://cdn.worldvectorlogo.com/logos/express-109.svg' width='98px' height='26px' alt='Express' />
