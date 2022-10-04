@@ -24,9 +24,9 @@
 }
 ```
 
-## I stand with Ukraine
+## Make love not war
 
-🇺🇦
+☮️
 
 ## Portfolio
 
