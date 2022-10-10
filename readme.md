@@ -42,7 +42,7 @@ Currently working on the huge update for my porfolio
 - 🎓 For the past two years+ have been working full-time in an online education building web apps ([mba][mba],
   [mipo][mipo], [mitu][mitu] and others)
 - ⚡ Accelerating the world's transition to sustainable energy I find to be the most important thing right now. I work hard to make myself able to contribute to the mission
-- 💘 I love software and programming
+- 💘 I love software & programming & engineering and everything about it
 
 ## Favorite tools
 
