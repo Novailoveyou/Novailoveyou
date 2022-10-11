@@ -1,13 +1,13 @@
-[portfoliolink]: https://novailoveyou.com
+[portfolio]: https://novailoveyou.com
+[linkedin]: https://www.linkedin.com
 [twitter]: https://twitter.com/novailoveyou
 [youtube]: https://www.youtube.com/channel/UC2rI3sYpG6dH7acoTiQMXsQ
-[mba]: https://github.com/anpmitu
-[mip]: https://github.com/npomip
-[ipe]: https://github.com/npoipe
-[ltdipe]: https://github.com/ltdipe
-[mipo]: https://github.com/npomipo
-[imo]: https://github.com/npoimo
-[mitu]: https://github.com/anpmitu
+[mba]: https://moscow.mba
+[mip]: https://mip.institute
+[ipe]: https://ipo.msk.ru
+[mipo]: https://mipo.msk.ru
+[imo]: https://imo.msk.ru
+[mitu]: https://mitu.institute
 [brad]: https://github.com/bradtraversy
 [telegram]: https://t.me/novailoveyou
 
@@ -30,7 +30,7 @@
 
 ## Portfolio
 
-<!-- To view my portfolio [click here][portfolioLink] -->
+<!-- To view my portfolio [click here][portfolio] -->
 
 Currently working on the huge update for my porfolio
 
@@ -57,10 +57,15 @@ Currently working on the huge update for my porfolio
 - <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width='98px' height='26px' alt='MongoDB' />
   MongoDB <em>(General purpose database)</em>
 
-## SM
+## 🔗 Links
 
-[<img src='https://cdn.worldvectorlogo.com/logos/twitter-4.svg' width='32px' height='28px'/>][twitter]
-[<img src='https://cdn.worldvectorlogo.com/logos/youtube-3.svg' width='32px' height='28px'/>][youtube]
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)][portfolio]
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+
+[![youtube](https://img.shields.io/youtube/channel/views/UC2rI3sYpG6dH7acoTiQMXsQ?style=social)][youtube]
 
 ## Contact
 
