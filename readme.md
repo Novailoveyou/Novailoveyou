@@ -28,12 +28,6 @@
 
 ☮️
 
-## Portfolio
-
-<!-- To view my portfolio [click here][portfolio] -->
-
-Currently working on the huge update for my porfolio
-
 ## About
 
 - 🎬 Was born and raised in an isolated Russian military town
@@ -42,7 +36,7 @@ Currently working on the huge update for my porfolio
 - 🎓 For the past two years+ have been working full-time in an online education building web apps ([mba][mba],
   [mipo][mipo], [mitu][mitu] and others)
 - ⚡ Accelerating the world's transition to sustainable energy I find to be the most important thing right now. I work hard to make myself able to contribute to the mission
-- 💘 I love software & programming & engineering and everything about it
+- 💘 I love programming & engineering and everything about it
 
 ## Favorite tools
 
