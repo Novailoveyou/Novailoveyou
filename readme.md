@@ -1,5 +1,5 @@
 [portfolio]: https://novailoveyou.com
-[linkedin]: https://www.linkedin.com
+[linkedin]: https://wwwlinkedin.com/in/ilia-orlov
 [twitter]: https://twitter.com/novailoveyou
 [youtube]: https://www.youtube.com/channel/UC2rI3sYpG6dH7acoTiQMXsQ
 [mba]: https://moscow.mba
