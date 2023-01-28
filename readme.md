@@ -3,6 +3,7 @@
 [twitter]: https://twitter.com/novailoveyou
 [youtube]: https://www.youtube.com/channel/UC2rI3sYpG6dH7acoTiQMXsQ
 [mba]: https://moscow.mba
+[mitm]: https://mitm.institute
 [mip]: https://mip.institute
 [ipe]: https://ipo.msk.ru
 [mipo]: https://mipo.msk.ru
@@ -30,13 +31,13 @@
 
 ## About
 
-- 🎬 Was born and raised in an isolated Russian military town
-- 🇺🇸 Learned English in my room using the internet, moved out, and re-educated myself
+- 🎬 Was born in a family of the military pilot
+- 🇺🇸 Learned English in my room using the internet
 - 🐐 Taught myself to program using the internet with the huge help of [Brad Traversy][brad]
-- 🎓 For the past two years+ have been working full-time in an online education building web apps ([mba][mba],
-  [mipo][mipo], [mitu][mitu] and others)
+- 🎓 For the past three years+ have been working full-time in an online education building web apps ([mba][mba],
+  [mitm][mitm], [mitu][mitu] and others)
 - ⚡ Accelerating the world's transition to sustainable energy I find to be the most important thing right now. I work hard to make myself able to contribute to the mission
-- 💘 I love programming & engineering and everything about it
+- 💘 I love programming from the bottom of my heart
 
 ## Favorite tools
 
