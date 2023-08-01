@@ -20,7 +20,7 @@
 {
   name: 'Ilia Orlov',
   username: 'Novailoveyou',
-  age: 25,
+  age: 26,
   position: 'Lead TypeScript developer',
 }
 ```
