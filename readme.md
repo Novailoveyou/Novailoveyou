@@ -33,7 +33,7 @@ const developer = {
   name: "Ilia Orlov",
   username: "novailoveyou",
   age: 28,
-  position: "Lead Front-End Developer",
+  position: "Tech Lead",
   location: "🌍",
   motto: "Make love not war ☮️",
   passion: "Accelerating sustainable technology adoption"
@@ -86,3 +86,4 @@ const developer = {
 *"The best way to predict the future is to create it."*
 
 **Available for exciting opportunities**
+
