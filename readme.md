@@ -17,7 +17,7 @@
 
 # 👋 Hello, I'm Ilia Orlov
 
-## Lead TypeScript Developer | Full-Stack Engineer | Sustainability Advocate
+## Tech Lead | Full-Stack Engineer | Sustainability Advocate
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)][portfolio]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -86,4 +86,5 @@ const developer = {
 *"The best way to predict the future is to create it."*
 
 **Available for exciting opportunities**
+
 
